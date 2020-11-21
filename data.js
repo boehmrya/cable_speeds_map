@@ -1,92 +1,29 @@
-var data_states = {
+var state_speeds = {
   AL: {
-    id: 'AL',
-    name: 'Alabama',
-    employees: '2,797',
-    jobs: '25,096',
-    total: '$3.95 billion',
-    providers: {
-       2560: {
-    name: 'Charter',
-    image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-    link: 'http://www.charter.net/'
-  },  2558: {
-    name: 'Comcast',
-    image: '/sites/default/files/2017-04/Comcast.png',
-    link: 'http://www.comcast.com/'
-  },  2567: {
-    name: 'Mediacom',
-    image: '/sites/default/files/2017-04/Mediacom.png',
-    link: 'http://www.mediacomcable.com'
-  }
+    2016: {
+      download: '36.04',
+      upload: '8.50'
+    },
+    2018: {
+      download: '73.25',
+      upload: '20.71'
     }
   },
   AK: {
-    id: 'AK',
-    name: 'Alaska',
-    employees: '1,362',
-    jobs: '12,221',
-    total: '$1.92 billion',
-    providers: {
-       2619: {
-        name: 'GCI',
-        image: '/sites/default/files/2017-04/GCI.png',
-        link: 'http://www.gci.com'
-      }
+    2016: {
+      download: '36.04',
+      upload: '8.50'
+    },
+    2018: {
+      download: '73.25',
+      upload: '20.71'
     }
   },
   AZ: {
-    id: 'AZ',
-    name: 'Arizona',
-    employees: '5,282',
-    jobs: '47,393',
-    total: '$7.45 billion',
-    providers: {
-      2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      },
-      2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },
-      2559: {
-        name: 'Cox',
-        image: '/sites/default/files/2017-04/Cox.png',
-        link: 'http://www.cox.com/'
-      },
-      2567: {
-        name: 'Mediacom',
-        image: '/sites/default/files/2017-04/Mediacom.png',
-        link: 'http://www.mediacomcable.com'
-      }
-    }
+
   },
   AR: {
-    id: 'AR',
-    name: 'Arkansas',
-    employees: '1,932',
-    jobs: '17,335',
-    total: '$2.73 billion',
-    providers: {
-      2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },
-      2559: {
-        name: 'Cox',
-        image: '/sites/default/files/2017-04/Cox.png',
-        link: 'http://www.cox.com/'
-      },
-      3604: {
-        name: 'Vyve',
-        image: '/sites/default/files/2017-04/vyve-broadband-logo_lrg.png',
-        link: 'http://www.vyvebroadband.com/'
-      }
-    }
+    
   },
   CA: {
     id: 'CA',
