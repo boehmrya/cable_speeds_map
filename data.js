@@ -11,101 +11,42 @@ var state_speeds = {
   },
   AK: {
     2016: {
-      download: '36.04',
-      upload: '8.50'
+      download: '53.72',
+      upload: '10.96'
     },
     2018: {
-      download: '73.25',
-      upload: '20.71'
+      download: '80.91',
+      upload: '21.40'
     }
   },
   AZ: {
-
+    2016: {
+      download: '60.19',
+      upload: '20.47'
+    },
+    2018: {
+      download: '102.09',
+      upload: '25.69'
+    }
   },
   AR: {
-    
+    2016: {
+      download: '36.83',
+      upload: '9.12'
+    },
+    2018: {
+      download: '69.92',
+      upload: '18.88'
+    }
   },
   CA: {
-    id: 'CA',
-    name: 'California',
-    employees: '21,934',
-    jobs: '196,802',
-    total: '$30.95 billion',
-    providers: {
-      2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      },
-      2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },
-      2559: {
-        name: 'Cox',
-        image: '/sites/default/files/2017-04/Cox.png',
-        link: 'http://www.cox.com/'
-      },
-      2567: {
-        name: 'Mediacom',
-        image: '/sites/default/files/2017-04/Mediacom.png',
-        link: 'http://www.mediacomcable.com/'
-      }
-    }
+
   },
   CO: {
-    id: 'CO',
-    name: 'Colorado',
-    employees: '13,569',
-    jobs: '121,748',
-    total: '$19.14 billion',
-    providers: {
-       2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      },
-      2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },
-      2566: {
-        name: 'Eagle Communications',
-        image: '/sites/default/files/2017-04/EagleCommunications.png',
-        link: 'http://www.eaglecom.net/'
-      },
-      3604: {
-        name: 'Vyve',
-        image: '/sites/default/files/2017-04/vyve-broadband-logo_lrg.png',
-        link: 'http://www.vyvebroadband.com/'
-      }
-    }
+
   },
   CT: {
-    id: 'CT',
-    name: 'Connecticut',
-    employees: '3,392',
-    jobs: '30,435',
-    total: '$4.79 billion',
-    providers: {
-      2560: {
-        name: 'Charter',
-        image: 'sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      },
-      2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },
-      2559: {
-        name: 'Cox',
-        image: '/sites/default/files/2017-04/Cox.png',
-        link: 'http://www.cox.com/'
-      }
-    }
+
   },
   DE: {
     id: 'DE',
