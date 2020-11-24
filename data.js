@@ -60,385 +60,69 @@ var state_speeds = {
     }
   },
   CT: {
-
+    2016: {
+      download: '45.73',
+      upload: '10.94'
+    },
+    2018: {
+      download: '93.68',
+      upload: '17.65'
+    }
   },
   DE: {
-    id: 'DE',
-    name: 'Delaware',
-    employees: '1,236',
-    jobs: '11,090',
-    total: '$1.74 billion',
-    providers: {
-       2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },
-      2567: {
-        name: 'Mediacom',
-        image: '/sites/default/files/2017-04/Mediacom.png',
-        link: 'http://www.mediacomcable.com/'
-      }
+    2016: {
+      download: '55.30',
+      upload: '23.99'
+    },
+    2018: {
+      download: '114.66',
+      upload: '48.84'
     }
   },
   DC: {
-    id: 'DC',
-    name: 'District Of Columbia',
-    employees: '305',
-    jobs: '2,737',
-    total: '$430 million',
-    providers: {
-       2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      }
-    }
+
   },
   FL: {
-    id: 'FL',
-    name: 'Florida',
-    employees: '18,076',
-    jobs: '162,187',
-    total: '$25.50 billion',
-    providers: {
-       2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      },  2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },  2559: {
-        name: 'Cox',
-        image: '/sites/default/files/2017-04/Cox.png',
-        link: 'http://www.cox.com/'
-      },  2567: {
-        name: 'Mediacom',
-        image: '/sites/default/files/2017-04/Mediacom.png',
-        link: 'http://www.mediacomcable.com/'
-      }
-    }
+
   },
   GA: {
-    id: 'GA',
-    name: 'Georgia',
-    employees: '9,533',
-    jobs: '85,535',
-    total: '$13.45 billion',
-    providers: {
-       2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      },  2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },  2559: {
-        name: 'Cox',
-        image: '/sites/default/files/2017-04/Cox.png',
-        link: 'http://www.cox.com/'
-      },  2567: {
-        name: 'Mediacom',
-        image: '/sites/default/files/2017-04/Mediacom.png',
-        link: 'http://www.mediacomcable.com/'
-      },  3604: {
-        name: 'Vyve',
-        image: '/sites/default/files/2017-04/vyve-broadband-logo_lrg.png',
-        link: 'http://www.vyvebroadband.com/'
-      }
-    }
+
   },
   HI: {
-    id: 'HI',
-    name: 'Hawaii',
-    employees: '1,336',
-    jobs: '11,987',
-    total: '$1.88 billion',
-    providers: {
-       2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      }
-    }
+
   },
   ID: {
-    id: 'ID',
-    name: 'Idaho',
-    employees: '668',
-    jobs: '5,994',
-    total: '$942 million',
-    providers: {
-       2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },  2559: {
-        name: 'Cox',
-        image: '/sites/default/files/2017-04/Cox.png',
-        link: 'http://www.cox.com/'
-      },  2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      }
-    }
+
   },
   IL: {
-    id: 'IL',
-    name: 'Illinois',
-    employees: '10,015',
-    jobs: '89,859',
-    total: '$14.13 billion',
-    providers: {
-       2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      },  2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },  2567: {
-        name: 'Mediacom',
-        image: '/sites/default/files/2017-04/Mediacom.png',
-        link: 'http://www.mediacomcable.com/'
-      }
-    }
+
   },
   IN: {
-    id: 'IN',
-    name: 'Indiana',
-    employees: '3,560',
-    jobs: '31,942',
-    total: '$5.02 billion',
-    providers: {
-       2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      },
-      2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },
-      2567: {
-        name: 'Mediacom',
-        image: '/sites/default/files/2017-04/Mediacom.png',
-        link: 'http://www.mediacomcable.com/'
-      }
-    }
+
   },
   IA: {
-    id: 'IA',
-    name: 'Iowa',
-    employees: '1,754',
-    jobs: '15,738',
-    total: '$2.47 billion',
-    providers: {
-       2559: {
-        name: 'Cox',
-        image: '/sites/default/files/2017-04/Cox.png',
-        link: 'http://www.cox.com/'
-      },
-      2567: {
-        name: 'Mediacom',
-        image: '/sites/default/files/2017-04/Mediacom.png',
-        link: 'http://www.mediacomcable.com/'
-      }
-    }
+
   },
   KS: {
-    id: 'KS',
-    name: 'Kansas',
-    employees: '2,032',
-    jobs: '18,232',
-    total: '$2.87 billion',
-    providers: {
-      2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      },
-      2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },
-       2559: {
-        name: 'Cox',
-        image: '/sites/default/files/2017-04/Cox.png',
-        link: 'http://www.cox.com/'
-      },
-      2566: {
-        name: 'Eagle Communications',
-        image: '/sites/default/files/2017-04/EagleCommunications.png',
-        link: 'http://www.eaglecom.net/'
-      },
-      2567: {
-        name: 'Mediacom',
-        image: '/sites/default/files/2017-04/Mediacom.png',
-        link: 'http://www.mediacomcable.com/'
-      },
-      2568: {
-        name: 'Midco',
-        image: '/sites/default/files/2017-04/logo-midco.png',
-        link: 'http://www.midco.com/'
-      },
-      3604: {
-        name: 'Vyve',
-        image: '/sites/default/files/2017-04/vyve-broadband-logo_lrg.png',
-        link: 'http://www.vyvebroadband.com/'
-      }
-    }
+
   },
   KY: {
-    id: 'KY',
-    name: 'Kentucky',
-    employees: '3,682',
-    jobs: '33,037',
-    total: '$5.19 billion',
-    providers: {
-      2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      },
-       2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },
-      2567: {
-        name: 'Mediacom',
-        image: '/sites/default/files/2017-04/Mediacom.png',
-        link: 'http://www.mediacomcable.com/'
-      }
-    }
+
   },
   LA: {
-    id: 'LA',
-    name: 'Louisiana',
-    employees: '2,823',
-    jobs: '25,329',
-    total: '$3.98 billion',
-    providers: {
-       2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      },
-      2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },
-      2559: {
-        name: 'Cox',
-        image: '/sites/default/files/2017-04/Cox.png',
-        link: 'http://www.cox.com/'
-      },
-      3604: {
-        name: 'Vyve',
-        image: '/sites/default/files/2017-04/vyve-broadband-logo_lrg.png',
-        link: 'http://www.vyvebroadband.com/'
-      }
-    }
+
   },
   ME: {
-    id: 'ME',
-    name: 'Maine',
-    employees: '1,218',
-    jobs: '10,928',
-    total: '$1.72 billion',
-    providers: {
-       2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },
-      2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      }
-    }
+
   },
   MD: {
-    id: 'MD',
-    name: 'Maryland',
-    employees: '4,596',
-    jobs: '41,238',
-    total: '$6.48 billion',
-    providers: {
-       2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      },
-      2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },
-      2567: {
-        name: 'Mediacom',
-        image: '/sites/default/files/2017-04/Mediacom.png',
-        link: 'http://www.mediacomcable.com/'
-      }
-    }
+
   },
   MA: {
-    id: 'MA',
-    name: 'Massachusetts',
-    employees: '5,626',
-    jobs: '50,479',
-    total: '$7.94 billion',
-    providers: {
-       2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      },
-      2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },
-      2559: {
-        name: 'Cox',
-        image: '/sites/default/files/2017-04/Cox.png',
-        link: 'http://www.cox.com/'
-      }
-    }
+
   },
   MI: {
-    id: 'MI',
-    name: 'Michigan',
-    employees: '7,425',
-    jobs: '66,621',
-    total: '$10.48 billion',
-    providers: {
-       2560: {
-        name: 'Charter',
-        image: '/sites/default/files/2017-07/Charter_Logo_RGB.png',
-        link: 'http://www.charter.net/'
-      },
-      2558: {
-        name: 'Comcast',
-        image: '/sites/default/files/2017-04/Comcast.png',
-        link: 'http://www.comcast.com/'
-      },
-      2567: {
-        name: 'Mediacom',
-        image: '/sites/default/files/2017-04/Mediacom.png',
-        link: 'http://www.mediacomcable.com/'
-      }
-    }
+    
   },
   MN: {
     id: 'MN',
