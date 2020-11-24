@@ -40,10 +40,24 @@ var state_speeds = {
     }
   },
   CA: {
-
+    2016: {
+      download: '58.11',
+      upload: '14.30'
+    },
+    2018: {
+      download: '101.00',
+      upload: '26.89'
+    }
   },
   CO: {
-
+    2016: {
+      download: '53.23',
+      upload: '17.02'
+    },
+    2018: {
+      download: '104.63',
+      upload: '26.79'
+    }
   },
   CT: {
 
