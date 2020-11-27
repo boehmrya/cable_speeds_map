@@ -90,7 +90,14 @@ var state_speeds = {
     }
   },
   FL: {
-
+    2016: {
+      download: '48.95',
+      upload: '14.83'
+    },
+    2018: {
+      download: '91.44',
+      upload: '33.87'
+    }
   },
   GA: {
 
