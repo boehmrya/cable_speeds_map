@@ -80,7 +80,14 @@ var state_speeds = {
     }
   },
   DC: {
-
+    2016: {
+      download: '52.64',
+      upload: '19.33'
+    },
+    2018: {
+      download: '109.98',
+      upload: '53.00'
+    }
   },
   FL: {
 
@@ -122,7 +129,7 @@ var state_speeds = {
 
   },
   MI: {
-    
+
   },
   MN: {
     id: 'MN',
